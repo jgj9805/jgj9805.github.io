@@ -10,38 +10,38 @@ description: "jgj9805 blog's"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: 
+  pic: 
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: 
+      url: 
+    - title: 
+      url: 
+    - title: 
+      url: 
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name:
+  pic: 
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: 
+      url:
+    - title: 
+      url: 
+    - title: 
+      url: 
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name:
+  pic: 
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: 
+      url: 
+    - title: 
+      url: 
+    - title: 
+      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
