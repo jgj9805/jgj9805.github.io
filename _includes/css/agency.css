@@ -257,7 +257,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #79c2e4;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #333;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/3057.png_860.png');
     background-position: center center;
