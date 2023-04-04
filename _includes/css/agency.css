@@ -866,11 +866,12 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 .skill{
-    width: 1170px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .skill h2{
     text-align: center;
 }
 .skills{
-margin: 20px !important;
+margin: 30px !important;
 }
