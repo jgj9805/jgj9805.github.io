@@ -3,12 +3,12 @@ title: 신라호텔
 subtitle: Website Design
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2023-04-04
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: 
+client: 
+category: 
 description: 이 프로젝트는 신라호텔을 모티브로 디자인한 프로젝트이다.
 ---
