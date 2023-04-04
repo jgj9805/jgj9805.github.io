@@ -865,3 +865,12 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+.skill{
+    width: 1170px;
+}
+.skill h2{
+    text-align: center;
+}
+.skills{
+margin: 30px;
+}
