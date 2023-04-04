@@ -7,8 +7,5 @@ date: 2023-04-04
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: 
-client: 
-category: 
 description: 이 프로젝트는 신라호텔을 모티브로 디자인한 프로젝트이다.
 ---
