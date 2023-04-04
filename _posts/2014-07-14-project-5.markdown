@@ -3,13 +3,10 @@ title: CGV
 subtitle: Website Design
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2023-04-04
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: 반응형 웹으로 모바일로 봤을때 기반으로 제작하였습니다.
 
 ---

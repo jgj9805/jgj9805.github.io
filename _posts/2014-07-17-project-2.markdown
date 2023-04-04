@@ -3,12 +3,9 @@ title: 다음카페
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2023-04-04
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: 이 프로젝트는 다음카페를 바탕으로 제작하였습니다.
 ---

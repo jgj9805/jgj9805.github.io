@@ -3,12 +3,9 @@ title: Weather
 subtitle: Mobile Design
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2023-04-04
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: 안드로이드 스튜디오와 html, css 등을 사용하여 제작하였습니다.
 ---

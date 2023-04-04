@@ -3,13 +3,10 @@ title: My Mobile
 subtitle: Mobile Design
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2023-04-04
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: 팀원들과 함께 cgv페이지를 기반으로 제작하였습니다.
 
 ---
