@@ -3,13 +3,13 @@ title: Dreams
 subtitle: Website Design
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2023-03
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: March 2023
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 이 프로젝트는 처음만든 프로젝트로 신라호텔을 모티브로 디자인을 하였다.
 
 ---
